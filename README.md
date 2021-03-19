@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m a web developer in Dongguan,China.
+
 🤔 And I’m learning data analysis.
+
 📫 How to reach me: mountainguan@gmail.com
 ![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=mountainguan&show_icons=true)
