@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=mountainguan&show_icons=true">]
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=mountainguan&show_icons=true">
 
 - 🔭 I’m a web developer in Dongguan,China.
 - 🤔 And I’m learning data analysis.
