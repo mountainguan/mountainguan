@@ -1,12 +1,10 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=mountainguan)
-# linux卡片
-[![](https://img.shields.io/badge/OS-Debian-a81d33?style=flat-square&logo=debian&logoColor=a81d33)](https://www.debian.org/)
+[![](https://img.shields.io/badge/OS-Debian-a81d33?style=flat-square&logo=debian&logoColor=ffffff)](https://www.debian.org/)
 
-# 手机设备
 [![](https://img.shields.io/badge/Galaxy-S20FE-1428a0?style=flat-square)](https://www.samsung.com/)
 
-# 程序语言
-[![](https://img.shields.io/badge/PHP-007396?style=flat-square&logo=php&logoColor=ffffff)](https://php.net/)
+[![](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff)](https://php.net/)
+[![](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://php.net/)
 
 <!--
 **mountainguan/mountainguan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
