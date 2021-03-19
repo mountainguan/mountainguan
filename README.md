@@ -1,7 +1,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=mountainguan)
 [![](https://img.shields.io/badge/OS-Debian-a81d33?style=flat-square&logo=debian&logoColor=ffffff)](https://www.debian.org/)
 [![](https://img.shields.io/badge/Php-777BB4?style=flat-square&logo=php&logoColor=ffffff)](https://php.net/)
-[![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://php.net/)
+[![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 
 <!--
 **mountainguan/mountainguan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
