@@ -1,8 +1,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=mountainguan)
 [![](https://img.shields.io/badge/OS-Debian-a81d33?style=flat-square&logo=debian&logoColor=ffffff)](https://www.debian.org/)
-
 [![](https://img.shields.io/badge/Galaxy-S20FE-1428a0?style=flat-square)](https://www.samsung.com/)
-
 [![](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff)](https://php.net/)
 [![](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://php.net/)
 
