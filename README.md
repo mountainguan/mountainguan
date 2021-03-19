@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=mountainguan&show_icons=true">
 
 - 🔭 I’m a web developer in Dongguan,China.
-- 🤔 And I’m learning data analysis.
+- 🤔 And I’m learning at data analysis & good at crawling🐞.
 - 📫 How to reach me: mountainguan@gmail.com
 
 
